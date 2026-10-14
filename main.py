@@ -27,9 +27,9 @@ REPEAT = 3
 
 def verse(name):
     for i in range(REPEAT):
-        print(name + "Shark,")
+        print(name + " Shark,")
         print("doo-doo-doo-do-do-do-do")
-        print(name + "Shark!")
+    print(name + " Shark!")
 
 def main():
     verse("Baby")
